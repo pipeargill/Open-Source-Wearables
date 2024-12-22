@@ -11,7 +11,7 @@ This category is for parts and techniques related to turning 3D designs into wea
 ## Open-Source Fursuit  
 This category is for parts and techniques related to turning character concepts into wearables that utilize a fabric, textile, or faux-fur outer layer.
 
-## Pipeargill's Toolbox  
+## pipeargill's Toolbox  
 This is a bonus category where I will be throwing any tools I design along the way.
 
 ---

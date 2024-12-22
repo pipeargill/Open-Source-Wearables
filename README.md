@@ -16,7 +16,7 @@ This is a bonus category that I will be throwing any tools I design along the wa
 
 ### Project Overview
 
-The first goal of this project is to developa  modular accessory system around 3M 6000 Series Respirator Mask
+The first goal of this project is to develop a  modular accessory system around 3M 6000 Series Respirator Mask
 ![20241205_011155](https://github.com/user-attachments/assets/896af129-97d1-4a42-aae2-ec2b246f2b39) 
 
 This project revolves around adapting the 3M 6000 series respirator mask into a versatile platform for building cosplay and fursuit heads. I’ve discovered that wearing a respirator mask, especially for seasonal allergies, is not only more comfortable than taking allergy medications but gives me an awesome opportunity to design custom wearables that attach securely to a mask. 

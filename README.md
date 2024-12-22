@@ -22,7 +22,7 @@ The first goal of this project is to develop a modular accessory system around t
 
 ![20241205_011155](https://github.com/user-attachments/assets/896af129-97d1-4a42-aae2-ec2b246f2b39)  
 
-This project revolves around adapting the 3M 6000 series respirator mask into a versatile platform for building cosplay and fursuit heads. I’ve discovered that wearing a respirator mask, especially for seasonal allergies, is not only more comfortable than taking allergy medications but gives me an awesome opportunity to design custom wearables that attach securely to a mask.  
+This project revolves around adapting the 3M 6000 series respirator mask into a versatile platform for building cosplay helmets and fursuit heads. I’ve discovered that wearing a respirator mask, especially for seasonal allergies, is not only more comfortable than taking allergy medications but gives me an awesome opportunity to design custom wearables that attach securely to a mask.  
 
 ![20241205_002525](https://github.com/user-attachments/assets/47b576f2-f4ef-4e54-b902-d0645ce54abf)  
 

@@ -36,6 +36,9 @@ I am currently working on 3D modeling adapters that allow the respirator mask to
 
 #### Remote Air Supply  
 
+Adapter set almost ready for beta!
+v0.3 12/24/24
+
 These adapters seem expensive for no good reason. I will soon design adapters for CPAP hoses and other common air supply methods.  
 
 ![3M-SA-2500-2T](https://github.com/user-attachments/assets/b87b4359-a478-446e-b752-7f95c2917cf1)  
@@ -55,21 +58,36 @@ I am currently working on the corresponding part that will connect to the filter
 
 In addition to the modular base adapters, I envision adding accessories such as:  
 
-- **Motorcycle/MTB Helmet Integration**: A version that works with a full-face helmet on top of a half mask.  
+- **Documentation on 18v power supply**: I utilize Ridgid 18v drill packs because they have a low voltage cutoff that is useful. I don't recommend DeWalt 20v batteries without a controller board because they can be ran down to 0v.
+I'm using adapter plates that I bought, but I can design out some printed ones that use male spade connections to interface with the batteries. I've found a 12/24v USB/C marine adapter that works great with 16-22v or whatever drillpacks are. There's also a neat 3A buck/boost converter that I've found that could also be useful.
+
+- **Motorcycle/MTB Helmet Integration**: A version that works with a full-face helmet on top of a half mask.
+  
 - **Transhumanist Stillsuit**: With a focus on adapting to air quality concerns, this suit aims to normalize mask-wearing in everyday life with potential for oxygen or inhaler supply.  
 - **Mobility Support**: Features focused on user needs such as standing, walking, or wheelchair/mobility aid adapters.  
-- **Electronic Integrations**: Future designs will incorporate electronics like heads-up displays, lights, external displays, speakers, and fans to create advanced digital cosplay or cyberpunk wearables.  
+- **Electronic Integrations**: Future designs will incorporate electronics like heads-up displays, lights, external displays, speakers, fans, ect.
 - **Meshtastic/Radio**: Embedding comms systems.  
-- **Wide View Periscopes**: For TV head/Foreverwinter digital shaman design. May end up doing a video feed, but I want to experiment with mirrors a bit here.  
+- **Wide View Periscopes**: For TV head/Foreverwinter digital shaman design. May end up doing a video feed, but I want to experiment with mirrors a bit here.
+  
+- **Dissect a used camera with a digital viewfinder for digital periscope**: Find common enough model
+  
 - **Space Marine/Zaku/Jin Roh Suit**: Focus on larger/bulky armored cosplay base.  
 - **Tactical/Utilitarian Suit**: A base focused on practical use over form.  
-- **Ballistics**: Use of embedded printed structures that help resist bullet impacts—explore molecular geometries such as diamond, double diamond, graphene, and variations on these structures.  
+- **Ballistics**: Use of embedded printed structures that help resist bullet impacts—explore molecular geometries such as diamond, double diamond, graphene, and variations on these structures.
+
 - **TV Head Prince Robot IV**: TV head character that I plan to cosplay, which should make a good base design.  
 - **Puppet Head on Long Neck**: I want to try this as a way to add more articulation to a head that is puppeted on top of the user's head.  
 
 ---
 
 ### Log  
+
+
+---
+add bluesky posts
+---
+
+
 
 #### Proof of Concept - Test Print 1 (12/1/24)  
 

@@ -64,9 +64,17 @@ I am currently working on the corresponding part that will connect to the filter
 
 ## Research into molecular geomety
 
-After seeing Crash Makerspace's video on using resin 3D printed structures, I started really thinking about this problem in my idle time and after reading comments by @erokfussell and @rondobrondo that go back and forth a bit with @CrashMakerspace and decided to try to understand more. I really appreciated this video for explaining the concepts in a way that was approachable to the way I understand materials and force. 
+After seeing Crash Makerspace's video on using resin 3D printed structures, I started really thinking about this problem in my idle time.  I read comments by @erokfussell that go back and forth a bit with @CrashMakerspace and decided to try to understand more about these structures. I really appreciated this video for explaining the concepts in a way that was approachable to the way I understand materials and force and I appreciate the scientific approach and willingness to share knowledge.
 
-I looked around a bit and found a model that was interesting because it was a lattus structure nested within another lattus structure. 
+![Screenshot_20241212-212144_YouTube](https://github.com/user-attachments/assets/769a7fb0-ccc2-41ae-ad55-5a3ad2c9dec1)
+![Screenshot_20241212-212220_YouTube](https://github.com/user-attachments/assets/c0d60d8b-98d3-469e-a9c1-ea9fb94e256f)
+![Screenshot_20241212-212231_YouTube](https://github.com/user-attachments/assets/dd590a01-fbf5-447a-bd85-6517e98ff8ee)
+![Screenshot_20241212-212238_YouTube](https://github.com/user-attachments/assets/dc4c9a95-d3da-444a-af0e-10be83821ae9)
+
+I looked around a bit and found a model that was very interesting because it was a lattus structure nested within another lattus structure. This became the main idea I try
+
+
+
 
 ---
 

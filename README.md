@@ -66,6 +66,8 @@ I am currently working on the corresponding part that will connect to the filter
 
 After seeing Crash Makerspace's video on using resin 3D printed structures, I started really thinking about this problem in my idle time.  I read comments by @erokfussell that go back and forth a bit with @CrashMakerspace and decided to try to understand more about these structures. I really appreciated this video for explaining the concepts in a way that was approachable to the way I understand materials and force and I appreciate the scientific approach and willingness to share knowledge.
 
+[Making 3D Prints Bulletproof with Molecular Structures - CrashMakerspace](https://youtu.be/G6AaAU4Sv5w?si=gatsVJPxFeBfWkmN)
+
 ![Screenshot_20241212-212144_YouTube](https://github.com/user-attachments/assets/769a7fb0-ccc2-41ae-ad55-5a3ad2c9dec1)
 ![Screenshot_20241212-212220_YouTube](https://github.com/user-attachments/assets/c0d60d8b-98d3-469e-a9c1-ea9fb94e256f)
 ![Screenshot_20241212-212231_YouTube](https://github.com/user-attachments/assets/dd590a01-fbf5-447a-bd85-6517e98ff8ee)
@@ -102,6 +104,8 @@ Tripple nested, these nodes are very close togeather
 
 <img width="494" alt="tripple" src="https://github.com/user-attachments/assets/b7806749-0742-48ff-ad15-99883f388e0d" />
 
+One last video I want to leave this idea with that could be useful because it showcases several structures, I'm unfamilure with this software otherwise:
+[What is lattice structure - Innogrit 3D](https://youtube.com/shorts/OYSQpLlBmEs?si=5Nqu5sfW5F0YzJVN)
 
 
 *1 I am including my STEP files for this research under MIT or Apache2, the only thing close to an origional idea here is my idea of utalizing a double nested molecular diamond structure in balistic testing. This idea remains unproven.

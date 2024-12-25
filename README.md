@@ -78,6 +78,9 @@ Here is a spacing experiment I tried using this structure as a guide.
 <img width="249" alt="Capture9" src="https://github.com/user-attachments/assets/b5bfac85-b21c-4c57-b45a-6b9b0582bfde" />
 
 The idea of a double lattuce structure is interesting because it could allow for nodes of the lattuce to be less effected for the rapidly moving shockwave that travels through the material, or by varying the size of the tabs that connect lattuce A to lattuce B while nested togeather, the force could be redirected into "unzipping" the 2 structures. This is purely conjecture and I am probably not going to test printed copies of these structures at this point. I've found it challenging to work with this sort of structure in Fusion 360 but I like that and I may approach this again once I have more than 12GB of RAM and everything stops freezing.
+<img width="641" alt="Capturelol" src="https://github.com/user-attachments/assets/12dedeb5-09c7-420a-8fab-fd41bb4fd8f1" />
+
+Here is a layout of how I was attempting to pattern the nodes out of bodies after generating a lattus structure.
 
 <img width="444" alt="Capture2" src="https://github.com/user-attachments/assets/2a40bbd6-1e6c-4f63-895e-33c03a404eec" />
 <img width="442" alt="Capture3" src="https://github.com/user-attachments/assets/679f07e5-4cc0-4558-91c8-fbb4e7ca111f" />

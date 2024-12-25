@@ -74,6 +74,7 @@ After seeing Crash Makerspace's video on using resin 3D printed structures, I st
 I looked around a bit and found a model that was very interesting because it was a lattus structure nested within another lattus structure. [Duble-Diamond mutual structure - Bulagen](https://www.myminifactory.com/object/3d-print-duble-diamond-mutual-structure-17925)
 
 Here is a spacing experiment I tried using this structure as a guide.
+
 <img width="249" alt="Capture9" src="https://github.com/user-attachments/assets/b5bfac85-b21c-4c57-b45a-6b9b0582bfde" />
 
 The idea of a double lattuce structure is interesting because it could allow for nodes of the lattuce to be less effected for the rapidly moving shockwave that travels through the material, or by varying the size of the tabs that connect lattuce A to lattuce B while nested togeather, the force could be redirected into "unzipping" the 2 structures. This is purely conjecture and I am probably not going to test printed copies of these structures at this point. I've found it challenging to work with this sort of structure in Fusion 360 but I like that and I may approach this again once I have more than 12GB of RAM.

@@ -77,7 +77,7 @@ Here is a spacing experiment I tried using this structure as a guide.
 
 <img width="249" alt="Capture9" src="https://github.com/user-attachments/assets/b5bfac85-b21c-4c57-b45a-6b9b0582bfde" />
 
-The idea of a double lattuce structure is interesting because it could allow for nodes of the lattuce to be less effected for the rapidly moving shockwave that travels through the material, or by varying the size of the tabs that connect lattuce A to lattuce B while nested togeather, the force could be redirected into "unzipping" the 2 structures. This is purely conjecture and I am probably not going to test printed copies of these structures at this point. I've found it challenging to work with this sort of structure in Fusion 360 but I like that and I may approach this again once I have more than 12GB of RAM.
+The idea of a double lattuce structure is interesting because it could allow for nodes of the lattuce to be less effected for the rapidly moving shockwave that travels through the material, or by varying the size of the tabs that connect lattuce A to lattuce B while nested togeather, the force could be redirected into "unzipping" the 2 structures. This is purely conjecture and I am probably not going to test printed copies of these structures at this point. I've found it challenging to work with this sort of structure in Fusion 360 but I like that and I may approach this again once I have more than 12GB of RAM and everything stops freezing.
 
 <img width="444" alt="Capture2" src="https://github.com/user-attachments/assets/2a40bbd6-1e6c-4f63-895e-33c03a404eec" />
 <img width="442" alt="Capture3" src="https://github.com/user-attachments/assets/679f07e5-4cc0-4558-91c8-fbb4e7ca111f" />
@@ -87,7 +87,12 @@ The idea of a double lattuce structure is interesting because it could allow for
 <img width="482" alt="Capture7" src="https://github.com/user-attachments/assets/95d01eb5-0f64-474c-b6de-e284670dc0cd" />
 <img width="517" alt="Capture8" src="https://github.com/user-attachments/assets/841333a9-ae70-486c-9809-6547d4c86b42" />
 
+*1 I am including my STEP files for this research under MIT or Apache2, the only thing close to an origional idea here is my idea of utalizing a double nested molecular diamond structure in balistic testing. This idea remains unproven.
 
+*2 I utalized CrashMakerspace's 20mm resin print file purely for research purposes by getting a general scale for the structures being worked with. Their IP is their own and I am not redistributing those files.
+
+*3 Duble-Diamond mutual structure by Bulagen is Licensed MyMiniFactory - Credit - Remix - Noncommercial
+I am including a copy in one of my files as refrence, this copy is unaltered and not attached physically or by symbolic relationship to any other objects in that file and should not change the MIT or Apache2 status of the other objects in that file, which I own and share under MIT or Apache2. I am not a lawyer.
 
 ---
 

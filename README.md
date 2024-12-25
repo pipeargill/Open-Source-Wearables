@@ -64,7 +64,7 @@ I am currently working on the corresponding part that will connect to the filter
 
 ## Research into molecular geomety
 
-After seeing Crash Makerspace's video on using resin 3D printed structures, I started really thinking about this problem in my idle time and after reading a comment by @erokfussell in the video I decided to research diamond covalent bond structures. I really appreciated this video for explaining the concepts in a way that was approachable to the way I understand materials and force. 
+After seeing Crash Makerspace's video on using resin 3D printed structures, I started really thinking about this problem in my idle time and after reading comments by @erokfussell and @rondobrondo that go back and forth a bit with @CrashMakerspace and decided to try to understand more. I really appreciated this video for explaining the concepts in a way that was approachable to the way I understand materials and force. 
 
 I looked around a bit and found a model that was interesting because it was a lattus structure nested within another lattus structure. 
 
@@ -151,3 +151,62 @@ Whether you’re a cosplayer or just someone who wants to breathe better, this p
 - **Fork the Repository**: If you want to contribute designs, ideas, or feedback, feel free to fork the project and submit pull requests.  
 - **Give Attribution**: If you use or modify the designs, please credit Pipeargill and this open-source project.  
 - **Join a Tier Membership**: If you want to support the development of this project, consider joining a membership tier. Support will help fund the creation of new designs and prototypes, and I aim to make it worthwhile for my supporters.
+
+### Philosophy & Goals
+
+I am putting this at the end because it is both the most and least important part of this. Uncontrollable yapping follows:
+
+Wearing a mask of any kind is unavoidably political in the United States and in many other places, so for many people simply protecting themselves and surviving in public is an act of resistance. 
+This project is born out of a personal need to filter pollen while being active, particularly while mountain biking. My alergies are bad and medically relavent, but my needs are minor compaired to what that of my friends and people I've known. The risk of losing the freedom to cover our face and protect our bodies is real and it is terrifying for the immunocompromised folk. [Some More News - Mask Bans](https://youtu.be/XTNBMVoFqN8?si=kvrvwtuGsiLRsKs5)
+
+Respirators like the 3M 6000 series offer better face comfort compared to disposable dust masks and keep hot air off the face, and I aim to build on that technology for broader and more creative daily use.
+
+Face recognicion means that we are increasingly carrying our identifcation papers on our face, and banning masks at protests insures that the ability to protest without being doxxed and harassed will be vanishing. 
+Privacy as a fundamental human right, recognized in Article 12 of the Universal Declaration of Human Rights and Article 17 of the International Covenant on Civil and Political Rights (ICCPR)
+
+I believe in promoting the normalization of mask-wearing in society, not just for protection but as a form of self-expression. With growing concerns about pollution, microplastics, and airborne diseases, wearable filters will become more important for our collective future. By developing open, modular, and functional headgear, I hope to support a creative outlet for the community and help others embrace volentary personal protection in more contexts.
+
+An extremely important note to make is that for many people mask wearing and protecting one's body are extremely important religious and cultural rights that should not be disrespected, appropreated, or the expression of suppressed.
+Here is a list:
+
+Christianity:
+1 Corinthians 6:19-20: “Your body is a temple of the Holy Spirit... therefore honor God with your bodies.”
+
+Exodus 34:29-35 (The Bible): Moses veils his face after descending from Mount Sinai because his face shines from speaking with God. Many modern Christians speak with God regurally, and are often called to action by God. They would be following Moses' tradition by covering their face.
+
+During the COVID-19 pandemic, many churches referenced Leviticus 13:45-46, which outlines isolation and covering the mouth of individuals with contagious conditions, as biblical support for mask-wearing.
+
+Judaism:
+
+Isaiah 6:2: Describes seraphim covering their faces in the presence of God, which can symbolize reverence and humility.
+
+Masks and costumes are central to Purim celebrations, expressing joy and creativity in a religious context.
+
+Buddhism:
+
+Dhammapada 231-233: “One should guard oneself... Protect your body, for it is the vehicle of your spirit.” This emphasizes taking care of one’s body, which can extend to wearing masks for health or ritual purposes.
+    
+Buddhist monks and practitioners in some traditions wear face coverings (e.g., in Japan and Korea) to protect life, reflecting the principle of Ahimsa (non-harm).
+
+Sikhism:
+
+Guru Granth Sahib: “Body and mind belong to the One who owns the soul... Preserve the self in purity.” (SGGS, Ang 727). Sikh teachings emphasize maintaining health and cleanliness as part of spiritual discipline.
+
+Taoism:
+
+Tao Te Ching 50: “He who protects his body as sacred has found his purpose.”
+
+Hindu:
+
+In Hindu traditions, masks are often used in performances like Kathakali or Ramayana reenactments, symbolizing deities and characters.
+
+Shinto:
+
+Masks are worn in traditional rituals to represent kami (spirits) and protect participants in sacred spaces from impurity.
+
+Indigenous Spiritualities:
+
+Masks play a significant role in Native American, Australian Aboriginal, African, and other indigenous ceremonies. They are worn for expression, storytelling, and connecting with the spiritual world. Many of these traditions have been lost but if anyone would like to share specific examples please reach out to me.
+
+This is not an exaustive list and I am not an expert, but there is enough information here to show that determining if an individual's reasion for wearing a mask is either religion or medical is an impossible task without legally enguaging with them, which authorities often will not have cause to do. This information is here to help protect the public and give aid to those who wish to challenge unjust or unconstitutional laws in the United States. I make no warrenties, do your own research. I am not a lawyer, I am a silly clown person who says silly thing.
+

@@ -1,24 +1,12 @@
-# Open-Source-Cyberwear
+# Open-Source-Wearables
 
-For organization sake, I am structuring my wearable projects into 3 main categories:
-
-## Open-Source Cyberwear  
-This category is for functional parts that add to a wearable's functionality or act as some sort of usability aid or prosthesis. Think anything from lights and sounds to standing support, digilegs, or wearable information and computer systems.
-
-## Open-Source Cosplay  
-This category is for parts and techniques related to turning 3D designs into wearables. Think hard shell armor and character faces printed directly.
-
-## Open-Source Fursuit  
-This category is for parts and techniques related to turning character concepts into wearables that utilize a fabric, textile, or faux-fur outer layer.
-
-## pipeargill's Toolbox  
-This is a bonus category where I will be throwing any tools I design along the way.
+This project is meant to act as an open library of wearable components, techniques, or research related to wearing technology. This is a personal repository that I am using to organize my thoughts, but I want for my work to be used and built upon. Choose MIT or Apache2 for licensing and just attribute Pipeargill if you find anything useful in your project.  
 
 ---
 
 ### Project Overview  
 
-The first goal of this project is to develop a modular accessory system around the 3M 6000 Series Respirator Mask.  
+The first goal of this project is to develop a modular wearable system starting with the 3M 6000 Series Respirator Masks.  
 
 ![20241205_011155](https://github.com/user-attachments/assets/896af129-97d1-4a42-aae2-ec2b246f2b39)  
 
@@ -27,6 +15,26 @@ This project revolves around adapting the 3M 6000 series respirator mask into a 
 ![20241205_002525](https://github.com/user-attachments/assets/47b576f2-f4ef-4e54-b902-d0645ce54abf)  
 
 The respirator masks are affordable, fairly comfortable, feature an anti-fog exhaust port, and have adjustable straps—making them ideal for attaching various 3D-printed designs. The aim of this project is to create modular adapters and accessories that allow the creation of custom cosplay, fursuit, cyberwear, or prosthesis designs that can be easily attached to the mask.
+
+---
+
+## Cyberwear  
+This category is for functional parts that add to a wearable's functionality or act as some sort of usability aid or prosthesis. Think anything from lights and sounds to standing support, digilegs, or wearable information and computer systems.
+
+## Cosplay  
+This category is for parts and techniques related to turning 3D designs into wearables. Think hard shell armor and character faces printed directly.
+
+## Fursuit  
+This category is for parts and techniques related to turning character concepts into wearables that utilize a fabric, textile, or faux-fur outer layer.
+
+## Utility/Tactical
+This category is for anything that has a specific functon other than looking cool.
+
+## Solutions
+This category is a catch-all for components that adapt one thing to another, hold a thing in a place, or otherwise solve a problem or adapt one category into another.
+
+## Toolbox  
+This category is for relief cuts or other tools.
 
 ---
 
@@ -46,11 +54,19 @@ These adapters seem expensive for no good reason. I will soon design adapters fo
 
 This is a low-profile adapter to allow air supply connections that can fit under a mask. I am considering it a Cyberwear part simply because it is used in a functional rather than aesthetic way, but it will be a base component for many other designs that will fall into other categories.  
 
-#### OSC-1 Beta 0.1 Pre-release  
+#### S-1 Beta 0.1 Pre-release  
 
 ![20241220_141349](https://github.com/user-attachments/assets/96c4d9f9-0415-4d9d-a78a-f0f5af11f968)  
 
 I am currently working on the corresponding part that will connect to the filter and allow for remote placement.
+
+---
+
+## Research into molecular geomety
+
+After seeing Crash Makerspace's video on using resin 3D printed structures, I started really thinking about this problem in my idle time and after reading a comment by @erokfussell in the video I decided to research diamond covalent bond structures. I really appreciated this video for explaining the concepts in a way that was approachable to the way I understand materials and force. 
+
+I looked around a bit and found a model that was interesting because it was a lattus structure nested within another lattus structure. 
 
 ---
 

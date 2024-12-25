@@ -90,6 +90,20 @@ Here is a layout of how I was attempting to pattern the nodes out of bodies afte
 <img width="482" alt="Capture7" src="https://github.com/user-attachments/assets/95d01eb5-0f64-474c-b6de-e284670dc0cd" />
 <img width="517" alt="Capture8" src="https://github.com/user-attachments/assets/841333a9-ae70-486c-9809-6547d4c86b42" />
 
+Here is an example of how these structures can nest
+
+<img width="442" alt="Double" src="https://github.com/user-attachments/assets/32d2a1b8-09c1-413c-8f9f-1a991ea04919" />
+
+Another view, from here you can see some space because the nesting I manually arranged isn't centered.
+
+<img width="497" alt="Capture44" src="https://github.com/user-attachments/assets/660b4ba5-66cb-4c43-a3bd-34da4bb097f0" />
+
+Tripple nested, these nodes are very close togeather
+
+<img width="494" alt="tripple" src="https://github.com/user-attachments/assets/b7806749-0742-48ff-ad15-99883f388e0d" />
+
+
+
 *1 I am including my STEP files for this research under MIT or Apache2, the only thing close to an origional idea here is my idea of utalizing a double nested molecular diamond structure in balistic testing. This idea remains unproven.
 
 *2 I utalized CrashMakerspace's 20mm resin print file purely for research purposes by getting a general scale for the structures being worked with. Their IP is their own and I am not redistributing those files.

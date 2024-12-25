@@ -71,8 +71,20 @@ After seeing Crash Makerspace's video on using resin 3D printed structures, I st
 ![Screenshot_20241212-212231_YouTube](https://github.com/user-attachments/assets/dd590a01-fbf5-447a-bd85-6517e98ff8ee)
 ![Screenshot_20241212-212238_YouTube](https://github.com/user-attachments/assets/dc4c9a95-d3da-444a-af0e-10be83821ae9)
 
-I looked around a bit and found a model that was very interesting because it was a lattus structure nested within another lattus structure. This became the main idea I try
+I looked around a bit and found a model that was very interesting because it was a lattus structure nested within another lattus structure. [Duble-Diamond mutual structure - Bulagen](https://www.myminifactory.com/object/3d-print-duble-diamond-mutual-structure-17925)
 
+Here is a spacing experiment I tried using this structure as a guide.
+<img width="249" alt="Capture9" src="https://github.com/user-attachments/assets/b5bfac85-b21c-4c57-b45a-6b9b0582bfde" />
+
+The idea of a double lattuce structure is interesting because it could allow for nodes of the lattuce to be less effected for the rapidly moving shockwave that travels through the material, or by varying the size of the tabs that connect lattuce A to lattuce B while nested togeather, the force could be redirected into "unzipping" the 2 structures. This is purely conjecture and I am probably not going to test printed copies of these structures at this point. I've found it challenging to work with this sort of structure in Fusion 360 but I like that and I may approach this again once I have more than 12GB of RAM.
+
+<img width="444" alt="Capture2" src="https://github.com/user-attachments/assets/2a40bbd6-1e6c-4f63-895e-33c03a404eec" />
+<img width="442" alt="Capture3" src="https://github.com/user-attachments/assets/679f07e5-4cc0-4558-91c8-fbb4e7ca111f" />
+<img width="455" alt="Capture4" src="https://github.com/user-attachments/assets/80e6c019-0ade-492f-b898-6b11bdd482d4" />
+<img width="354" alt="Capture5" src="https://github.com/user-attachments/assets/9257950b-7af0-4b95-8736-e47a26398327" />
+<img width="511" alt="Capture6" src="https://github.com/user-attachments/assets/a419f0ee-e92a-4012-95d5-aa5dedaee3d7" />
+<img width="482" alt="Capture7" src="https://github.com/user-attachments/assets/95d01eb5-0f64-474c-b6de-e284670dc0cd" />
+<img width="517" alt="Capture8" src="https://github.com/user-attachments/assets/841333a9-ae70-486c-9809-6547d4c86b42" />
 
 
 

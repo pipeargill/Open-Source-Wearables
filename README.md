@@ -51,14 +51,12 @@ v0.3 12/24/24
 
 The first use case will be fitting the mask under my MTB full face helmet and attaching the remote filters somewhere. I've already test fitted the 3M half mask respirator under the helmet with the low profile adapters, I just need to film and document and do all the publishing junk.
 
+These adapters seem expensive for no good reason.  
+
+![449N09_AS01](https://github.com/user-attachments/assets/0ae01796-2914-4c70-8d7e-cb7c2137baa8)
 
 
-These adapters seem expensive for no good reason. I will soon design adapters for CPAP hoses and other common air supply methods.  
-
-![3M-SA-2500-2T](https://github.com/user-attachments/assets/b87b4359-a478-446e-b752-7f95c2917cf1)  
-![449N09_AS01](https://github.com/user-attachments/assets/131754bf-49d7-4a22-9b09-74cc93862436)  
-
-This is a low-profile adapter to allow air supply connections that can fit under a mask. I am considering it a Solutions part and it will be a base component for many other designs that will fall into other categories.  
+This is a low-profile adapter to allow air supply connections that can fit under a mask. I am considering it a Solutions part and it will be a base component for many other designs that will fall into other categories. It attaches to 5 0.25in/7mm rubber hoses and connects to the corresponding part that holds the filter. This opens to opportunity to inject oxygen or various medications into the airstream and could help those with breathing complications, especially in active settings.
 
 #### S-1 Beta 0.4 beta
 

@@ -35,8 +35,6 @@ This category is for anything that has a specific functon other than looking coo
 ## Solutions
 This category is a catch-all for components that adapt one thing to another, hold a thing in a place, or otherwise solve a problem or adapt one category into another.
 
-![20241220_141300](https://github.com/user-attachments/assets/645a9185-50a4-4293-a1ff-043a1e5d5381)
-
 ## Toolbox  
 This category is for relief cuts or other tools.
 
@@ -60,13 +58,13 @@ These adapters seem expensive for no good reason. I will soon design adapters fo
 ![3M-SA-2500-2T](https://github.com/user-attachments/assets/b87b4359-a478-446e-b752-7f95c2917cf1)  
 ![449N09_AS01](https://github.com/user-attachments/assets/131754bf-49d7-4a22-9b09-74cc93862436)  
 
-This is a low-profile adapter to allow air supply connections that can fit under a mask. I am considering it a Cyberwear part simply because it is used in a functional rather than aesthetic way, but it will be a base component for many other designs that will fall into other categories.  
+This is a low-profile adapter to allow air supply connections that can fit under a mask. I am considering it a Solutions part and it will be a base component for many other designs that will fall into other categories.  
 
-#### S-1 Beta 0.1 Pre-release  
+#### S-1 Beta 0.4 beta
 
-![20241220_141349](https://github.com/user-attachments/assets/96c4d9f9-0415-4d9d-a78a-f0f5af11f968)  
+![20241220_141300](https://github.com/user-attachments/assets/645a9185-50a4-4293-a1ff-043a1e5d5381)
 
-I am currently working on the corresponding part that will connect to the filter and allow for remote placement.
+I have disignrd the corresponding part that will connect to the filter and allow for remote placement, just need to document and publish.
 
 ---
 

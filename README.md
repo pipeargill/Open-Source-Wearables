@@ -8,13 +8,13 @@ This project is meant to act as an open library of wearable components, techniqu
 
 The first goal of this project is to develop a modular wearable system starting with the 3M 6000 Series Respirator Masks.  
 
-![20241205_011155](https://github.com/user-attachments/assets/896af129-97d1-4a42-aae2-ec2b246f2b39)  
+---
 
-This project revolves around adapting the 3M 6000 series respirator mask into a versatile platform for building cosplay helmets and fursuit heads. I’ve discovered that wearing a respirator mask, especially for seasonal allergies, is not only more comfortable than taking allergy medications but gives me an awesome opportunity to design custom wearables that attach securely to a mask.  
+Respirator masks offer a versatile platform for building cosplay helmets and fursuit heads because they can be attched to easily, fit securely, and come with useful benefits..like filtering air. I’ve discovered that wearing a respirator mask, especially for seasonal allergies, is not only more comfortable than taking allergy medications but gives me an awesome opportunity for expression.
 
-![20241205_002525](https://github.com/user-attachments/assets/47b576f2-f4ef-4e54-b902-d0645ce54abf)  
+---
 
-The respirator masks are affordable, fairly comfortable, feature an anti-fog exhaust port, and have adjustable straps—making them ideal for attaching various 3D-printed designs. The aim of this project is to create modular adapters and accessories that allow the creation of custom cosplay, fursuit, cyberwear, or prosthesis designs that can be easily attached to the mask.
+The respirator masks are relitively affordable, fairly comfortable, feature an anti-fog exhaust port, and have adjustable straps that can easily be replaced. The aim of this project is to create modular adapters and accessories that allow the creation of custom cosplay, fursuit, cyberwear, or prosthesis designs that can be easily attached to the mask.
 
 ---
 
@@ -24,6 +24,8 @@ This category is for functional parts that add to a wearable's functionality or 
 ## Cosplay  
 This category is for parts and techniques related to turning 3D designs into wearables. Think hard shell armor and character faces printed directly.
 
+![20241222_000936](https://github.com/user-attachments/assets/88ed588a-4be1-47ab-a428-a49742275959)
+
 ## Fursuit  
 This category is for parts and techniques related to turning character concepts into wearables that utilize a fabric, textile, or faux-fur outer layer.
 
@@ -32,6 +34,8 @@ This category is for anything that has a specific functon other than looking coo
 
 ## Solutions
 This category is a catch-all for components that adapt one thing to another, hold a thing in a place, or otherwise solve a problem or adapt one category into another.
+
+![20241220_141300](https://github.com/user-attachments/assets/645a9185-50a4-4293-a1ff-043a1e5d5381)
 
 ## Toolbox  
 This category is for relief cuts or other tools.
@@ -46,6 +50,10 @@ I am currently working on 3D modeling adapters that allow the respirator mask to
 
 Adapter set almost ready for beta!
 v0.3 12/24/24
+
+The first use case will be fitting the mask under my MTB full face helmet and attaching the remote filters somewhere. I've already test fitted the 3M half mask respirator under the helmet with the low profile adapters, I just need to film and document and do all the publishing junk.
+
+
 
 These adapters seem expensive for no good reason. I will soon design adapters for CPAP hoses and other common air supply methods.  
 

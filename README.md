@@ -2,17 +2,18 @@
 
 This project is meant to act as an open library of wearable components, techniques, or research related to wearing technology. This is a personal repository that I am using to organize my thoughts, but I want for my work to be used and built upon. Choose MIT or Apache2 for licensing and just attribute Pipeargill if you find anything useful in your project.  
 
----
+![20241205_011319](https://github.com/user-attachments/assets/335df770-ff78-4379-9a01-515f40939c54)
+
 
 ### Project Overview  
 
 The first goal of this project is to develop a modular wearable system starting with the 3M 6000 Series Respirator Masks.  
 
----
+![20241205_002423](https://github.com/user-attachments/assets/14851dcb-9b65-45dc-87be-e97fc3cf0171)
 
 Respirator masks offer a versatile platform for building cosplay helmets and fursuit heads because they can be attched to easily, fit securely, and come with useful benefits..like filtering air. I’ve discovered that wearing a respirator mask, especially for seasonal allergies, is not only more comfortable than taking allergy medications but gives me an awesome opportunity for expression.
 
----
+![20241205_002525](https://github.com/user-attachments/assets/dd5dd993-fc13-41a3-9461-2a94155eefbc)
 
 The respirator masks are relitively affordable, fairly comfortable, feature an anti-fog exhaust port, and have adjustable straps that can easily be replaced. The aim of this project is to create modular adapters and accessories that allow the creation of custom cosplay, fursuit, cyberwear, or prosthesis designs that can be easily attached to the mask.
 

@@ -223,11 +223,9 @@ Whether you’re a cosplayer or just someone who wants to breathe better, this p
 I am putting this at the end because it is both the most and least important part of this. Uncontrollable yapping follows:
 
 Wearing a mask of any kind is unavoidably political in the United States and in many other places, so for many people simply protecting themselves and surviving in public is an act of resistance. 
-This project is born out of a personal need to filter pollen while being active, particularly while mountain biking. My alergies are bad and medically relavent, but my needs are minor compaired to what that of my friends and people I've known. The risk of losing the freedom to cover our face and protect our bodies is real and it is terrifying for the immunocompromised folk. [Some More News - Mask Bans](https://youtu.be/XTNBMVoFqN8?si=kvrvwtuGsiLRsKs5)
+This project is born out of a personal need to filter pollen while being active, particularly while mountain biking. My alergies are bad and medically relavent, but my needs are minor compaired to what that of my friends and people I've known. The risk of losing the freedom to cover our face and protect our bodies is real and it is terrifying for the immunocompromised folk. 
 
-This is a section where I am going to try to lay out supporting details for anyone who wants to help protect our rights. This will be a long and detailed dive into the mask bans that are starting to show up along with information that could be useful for defense of rights.
-
-The United States prides itself on being a bastion of individual freedoms. However, recent mask bans exemplify a deep hypocrisy: the selective application of "freedom" depending on ideology. These bans, which prohibit individuals from wearing masks in public spaces or at protests, contradict the values of personal liberty that many anti-mask advocates claimed to defend during the pandemic. This hypocrisy is not only harmful to public health but also endangers vulnerable populations, violates constitutional rights, and serves to suppress dissent.
+United States prides itself on being a bastion of individual freedoms; however, recent mask bans exemplify a deep hypocrisy: the selective application of "freedom" depending on ideology. These bans, which prohibit individuals from wearing masks in public or at protests, contradict the values of personal liberty that many anti-mask advocates claimed to defend during the Covid-19 pandemic. This hypocrisy is not only harmful to public health but also endangers vulnerable populations, violates constitutional rights, and serves to suppress dissent.
 
 Overview of Recent Mask Ban Legislation
 
@@ -296,6 +294,8 @@ Ethically, these policies fail the test of equity. Public health measures should
 This fight isn’t just for disabled people—it’s for everyone who values freedom. Disabilities can affect anyone at any time, and protecting the rights of the vulnerable is essential. Lawsuits challenging mask bans may increase, as they should. We must recognize that these bans infringe on rights and perpetuate harmful discrimination.
 
 The hypocrisy is blatant. Many who railed against mask mandates during the pandemic now back mask bans, exposing their real motive: controlling others, not protecting freedom. It’s the same playbook used to enforce oppressive religious and societal norms while claiming to champion liberty. These bans aren’t about safety or justice—they’re about silencing dissent and maintaining power for a select few.
+
+Much of the information in this section I a summary of this video, please check it out to support that channel and learn more: [Some More News - Mask Bans](https://youtu.be/XTNBMVoFqN8?si=kvrvwtuGsiLRsKs5)
 
 8. What can we do?
 

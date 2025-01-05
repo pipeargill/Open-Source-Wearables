@@ -20,7 +20,7 @@ The respirator masks are relitively affordable, fairly comfortable, feature an a
 ---
 
 ## Cyberwear  
-This category is for functional parts that add to a wearable's functionality or act as some sort of usability aid or prosthesis. Think anything from lights and sounds to standing support, digilegs, or wearable information and computer systems.
+This category is for functional parts that add to a wearable's functionality or act as some sort of usability aid or prosthesis. Think anything from lights and sounds to standing support, or wearable information and computer systems.
 
 ## Cosplay  
 This category is for parts and techniques related to turning 3D designs into wearables. Think hard shell armor and character faces printed directly.

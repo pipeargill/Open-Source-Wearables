@@ -20,7 +20,7 @@ The respirator masks are relitively affordable, fairly comfortable, feature an a
 ---
 
 ## Cyberwear  
-This category is for functional parts that add to a wearable's functionality or act as some sort of usability aid or prosthesis. Think anything from lights and sounds to standing support, or wearable information and computer systems.
+This category is for functional parts that add to a wearable's functionality or act as some sort of usability aid or prosthesis. Think anything from lights and sounds to radio or computer systems.
 
 ## Cosplay  
 This category is for parts and techniques related to turning 3D designs into wearables. Think hard shell armor and character faces printed directly.
@@ -31,7 +31,7 @@ This category is for parts and techniques related to turning 3D designs into wea
 This category is for parts and techniques related to turning character concepts into wearables that utilize a fabric, textile, or faux-fur outer layer.
 
 ## Utility/Tactical
-This category is for anything that has a specific functon other than looking cool.
+This category is for anything that has a specific functon as a tool that doesn't fall neatly into cyberwear or anything designed to be defensive such as armor.
 
 ## Solutions
 This category is a catch-all for components that adapt one thing to another, hold a thing in a place, or otherwise solve a problem or adapt one category into another.
@@ -63,7 +63,7 @@ This is a low-profile adapter to allow air supply connections that can fit under
 
 ![20241220_141300](https://github.com/user-attachments/assets/645a9185-50a4-4293-a1ff-043a1e5d5381)
 
-I have disignrd the corresponding part that will connect to the filter and allow for remote placement, just need to document and publish.
+I have designed the corresponding part that will connect to the filter and allow for remote placement, just need to document and publish.
 
 ---
 
@@ -145,20 +145,21 @@ This is a challenge I want to tackle early on as a way to push this design. It s
   
 - **Transhumanist Stillsuit**: With a focus on adapting to air quality concerns, this suit aims to normalize mask-wearing in everyday life with potential for oxygen or inhaler supply.
   
-- **Mobility Support**: Features focused on user needs such as standing, walking, or wheelchair/mobility aid adapters.
+- **Mobility Support**: Features focused on user needs such as standing, walking, or wheelchair/mobility aid adapters. This is an idea that is a bit outside the current scope of the project, but my goal is to move to full body designs once the head design is mature enough to be modular.
   
 - **Electronic Integrations**: Future designs will incorporate electronics like heads-up displays, lights, external displays, speakers, fans, ect.
   
 - **Meshtastic/Radio**: Embedding comms systems.
   
-- **Wide View Periscopes**: For TV head/Foreverwinter digital shaman design. May end up doing a video feed, but I want to experiment with mirrors a bit here.
+- **Wide View Periscopes**: For TV head/Foreverwinter Shaman design cosplay. May end up doing a video feed, but I want to experiment with mirrors a bit here.
   
 - **Dissect a used camera with a digital viewfinder for digital periscope**: Find common enough model
   
-- **Space Marine/Zaku/Jin Roh Suit**: Focus on larger/bulky armored cosplay base.  
+- **Space Marine/Zaku/Jin Roh Suit**: Focus on larger/bulky armored cosplay base.
+- 
 - **Tactical/Utilitarian Suit**: A base focused on practical use over form.
   
-- **Ballistics**: Use of embedded printed structures that help resist bullet impacts—explore molecular geometries such as diamond, double diamond, graphene, and variations on these structures.
+- **Ballistics**: Use of embedded printed structures that help resist bullet impacts—explore molecular geometries such as diamond, double diamond, graphene, and variations on these molecular structures in 3D printed resin.
 
 - **TV Head Prince Robot IV**: TV head character that I plan to cosplay, which should make a good base design.
 
@@ -223,7 +224,7 @@ Whether you’re a cosplayer or just someone who wants to breathe better, this p
 I am putting this at the end because it is both the most and least important part of this. Uncontrollable yapping follows:
 
 Wearing a mask of any kind is unavoidably political in the United States and in many other places, so for many people simply protecting themselves and surviving in public is an act of resistance. 
-This project is born out of a personal need to filter pollen while being active, particularly while mountain biking. My alergies are bad and medically relavent, but my needs are minor compaired to what that of my friends and people I've known. The risk of losing the freedom to cover our face and protect our bodies is real and it is terrifying for the immunocompromised folk. 
+This project is born out of a personal need to filter pollen while being active, particularly while mountain biking. My alergies are bad and medically relavent, but my needs are minor compaired to that of my friends and people I've known. The risk of losing the freedom to cover our face and protect our bodies is real and it is terrifying for the immunocompromised folk. 
 
 United States prides itself on being a bastion of individual freedoms; however, recent mask bans exemplify a deep hypocrisy: the selective application of "freedom" depending on ideology. These bans, which prohibit individuals from wearing masks in public or at protests, contradict the values of personal liberty that many anti-mask advocates claimed to defend during the Covid-19 pandemic. This hypocrisy is not only harmful to public health but also endangers vulnerable populations, violates constitutional rights, and serves to suppress dissent.
 

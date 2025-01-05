@@ -199,17 +199,13 @@ You may choose either license to use this project.
 ---
 
 ### Tiers of Access  
-
-- **STL files**: Free to download after the early release period, print-ready, with slight distortions and watermarks.  
-- **STEP files**: Available for purchase, offering high-quality, editable designs.  
-
-Early access is granted to Patreon supporters. Free public releases will follow.  
+-**Pay What You Want**: I had originally planned to release some of my work for free and other parts as paid, but I have started to lean towards a donation model because I consider this project a type of activism. Please consider supporting my work if you are able to.
 
 ---
 
 ### Community & Open-Source Vision  
 
-As part of the Open-Source Fursuit Project, I hope to create a space where makers and designers can collaborate on wearable tech, cosplay, and cyberpunk gear. I welcome contributions, ideas, and variations from the community, as I believe this project can go in many exciting directions.  
+I hope to create a space where makers and designers can collaborate on wearable tech, cosplay, and cyberpunk gear. I welcome contributions, ideas, and variations from the community, as I believe this project can go in many exciting directions.  
 
 Whether you’re a cosplayer or just someone who wants to breathe better, this project is meant to empower you to build unique creations that push the boundaries of wearable tech.  
 

@@ -152,6 +152,9 @@ This is a challenge I want to tackle early on as a way to push this design. It s
 - **Meshtastic/Radio**: Embedding comms systems.
   
 - **Wide View Periscopes**: For TV head/Foreverwinter Shaman design cosplay. May end up doing a video feed, but I want to experiment with mirrors a bit here.
+
+- **EDC holster**: Design holsters for every day carry items such as chapstick, tissues, knife, ect.
+ (Cabela's Gentleman's EDC Knife)[https://www.basspro.com/shop/en/cabelas-gentleman-edc-folding-knife]
   
 - **Dissect a used camera with a digital viewfinder for digital periscope**: Find common enough model
   

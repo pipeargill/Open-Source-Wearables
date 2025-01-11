@@ -128,6 +128,9 @@ I am including a copy in one of my files as refrence, this copy is unaltered and
 
 - **Set up camera and studio to document work so far**
 
+- **Lego Compatible mask**
+From a previous project I know that I can secure Lego using M2 bolts and nuts. This will be really useful for attaching designs to a mask because it gives a modular attachment interface. This can also be useful for isolating certain design elements that may not have compatible licenses.
+
 - **Research 3M mask with speaking diaphragm**
 ![Disloyal_man_with_his_girlfriend_looking_at_another_girl](https://github.com/user-attachments/assets/35620ef0-ed29-4420-a334-201cd1b2435d)
 ![3M-Secure-Click-Half-Facepiece-Reusable-Respirator-HF-800-Series](https://github.com/user-attachments/assets/846e6f65-37c0-4b78-bad8-4531ee587d22)
